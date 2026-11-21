@@ -3,6 +3,7 @@ It's a Mobile Phone Charging stand!
 
 ## Features
 - Weighs around 51 grams
+- Has space for clear double tape at the back to mount it
 
 ## Design & Specifications
 | Property | Value |
