@@ -1,6 +1,9 @@
 # Mobile Phone Charging Stand
 It's a Mobile Phone Charging stand!
 
+# Onshape Link
+https://cad.onshape.com/documents/7b1ea82c504dea008c04f044/w/f3d5c5fc2e2ec05ab9e23568/e/736ee93385ebcbb77e444641?renderMode=0&uiState=6b03a722e4db87354c5d8ce5
+
 ## Features
 - Weighs around 51 grams
 - Has space for clear double tape at the back to mount it
